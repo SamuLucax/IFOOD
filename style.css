@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Rubik:wght@300&family=Sarala&display=swap');
+
+* {
+    margin: 0;
+}
+
+img {
+    height: 65px;
+}
+
+header {
+    padding: 4rem;
+    background: rgba(234, 29, 44);
+    height: 25px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Sarala', sans-serif;
+    margin: 0;
+    align-items: center;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    justify-content: center;
+    color: white;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    padding: 24px;
+    height: 25px;
+}
+
+.button-1 {
+    background: white;
+    color: red;
+    font-family: 'Sarala', sans-serif;
+    background-color: white;
+    width: 80px;
+    height: 65px;
+    border: none;
+    border-radius: 80px;
+    align-items: center;
+}
+
+.button-2 {
+    background: white;
+    color: red;
+    font-family: 'Sarala', sans-serif;
+    background-color: white;
+    width: 80px;
+    height: 65px;
+    border: none;
+    border-radius: 80px;
+    align-items: center;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 500px;
+}
+
+.mercado {
+    height: 250px;
+    width: 250px;
+    border: none;
+    background-color: #b6d048;
+    border-radius: 20px;
+}
+
+.lanche {
+    height: 250px;
+    width: 250px;
+    background-color:  rgba(234, 29, 44);
+    border-radius: 20px;
+    align-items: center;
+
+}
+
+.bebidas {
+    height: 250px;
+    width: 250px;
+    background-color: #f6d553;
+    border-radius: 20px;
+    margin-bottom: 16px;
+}
+
+.rodape {
+    background: rgba(234, 29, 44);
+    height: 25%;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    padding: 3rem;
+}
+
+.termos {
+    background: white;
+    color: red;
+    font-family: 'Sarala', sans-serif;
+    background-color: white;
+    width: 80px;
+    height: 65px;
+    border: none;
+    border-radius: 80px;
+    align-items: center;
+}
+
+.codigo {
+    background: white;
+    color: red;
+    font-family: 'Sarala', sans-serif;
+    background-color: white;
+    width: 80px;
+    height: 65px;
+    border: none;
+    border-radius: 80px;
+    align-items: center;
+}
+
+.privacidade {
+    background: white;
+    color: red;
+    font-family: 'Sarala', sans-serif;
+    background-color: white;
+    width: 80px;
+    height: 65px;
+    border: none;
+    border-radius: 80px;
+    align-items: center;
+}
+
+.dicas {
+    background: white;
+    color: red;
+    font-family: 'Sarala', sans-serif;
+    background-color: white;
+    width: 80px;
+    height: 65px;
+    border: none;
+    border-radius: 80px;
+    align-items: center;
+}
+
+.footer {
+    height: 65px;
+}
